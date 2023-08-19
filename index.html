@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explore o universo Pokémon na Pokédex - sua fonte definitiva para todas as espécies.">
+  <title>Pokédex</title>
+
+  <link rel="icon" href="./assets/icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  <main>
+    <img src="#" alt="Pokémon" class="pokemon__image">
+
+    <h1>
+      <span class="pokemon__number"></span> -
+      <span class="pokemon__name"></span>
+    </h1>
+
+    <form class="form">
+      <input
+        type="search"
+        class="input__search"
+        placeholder="Name or Number"
+        required
+      />
+    </form>
+
+    <div class="buttons">
+      <button class="button btn-prev">Prev &lt;</button>
+      <button class="button btn-next">Next &gt;</button>
+    </div>
+
+    <img src="./assets/pokedex.png" alt="pokedex" class="pokedex">
+    <img src="./assets/not-found.jpg" alt="Pokémon Not Found" class="not__pokemon">
+  </main>
+  <script defer src="script.js"></script>
+</body>
+</html>
