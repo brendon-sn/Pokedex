@@ -32,7 +32,7 @@ Este projeto foi criado ao consumir a API RESTful [Pokémon](http://pokeapi.co/t
 
 ## 📑 Deploy
 
-Acesse a [clicando aqui](https://links-44gymke6w-brendon-sn.vercel.app/).
+Veja o projeto [clicando aqui]([https://links-44gymke6w-brendon-sn.vercel.app/](https://vercel.com/brendon-sn/pokedex/CNpemRSgkck2QVuJ2UwoGJnTsSmp)https://vercel.com/brendon-sn/pokedex/CNpemRSgkck2QVuJ2UwoGJnTsSmp).
 
 ## :memo: Licença
 
