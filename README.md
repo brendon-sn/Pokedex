@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" width="400px" height="400px">
 </p>
 
 <br>
@@ -28,11 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi criado ao consumir a API RESTful [Pokémon](http://pokeapi.co/target="_blank"), proporcionando a capacidade de buscar Pokémon pelo seu nome ou número correspondente na Pokédex. Além disso, o sistema possui tratamento de erro para garantir que o usuário receba uma mensagem clara caso insira um nome de Pokémon que não existe ou um número incorreto. Explore a vasta coleção de Pokémon com facilidade e confiança.
+Este projeto foi criado ao consumir a API RESTful [Pokémon](http://pokeapi.co/), proporcionando a capacidade de buscar Pokémon pelo seu nome ou número correspondente na Pokédex. Além disso, o sistema possui tratamento de erro para garantir que o usuário receba uma mensagem clara caso insira um nome de Pokémon que não existe ou um número incorreto. Explore a vasta coleção de Pokémon com facilidade e confiança.
 
 ## 📑 Deploy
 
-Veja o projeto [clicando aqui]([https://links-44gymke6w-brendon-sn.vercel.app/](https://vercel.com/brendon-sn/pokedex/CNpemRSgkck2QVuJ2UwoGJnTsSmp)https://vercel.com/brendon-sn/pokedex/CNpemRSgkck2QVuJ2UwoGJnTsSmp).
+Veja o projeto [clicando aqui](https://pokedex-jfb0c87h0-brendon-sn.vercel.app/).
 
 ## :memo: Licença
 
