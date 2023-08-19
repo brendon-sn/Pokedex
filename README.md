@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/brendon-sn/Pokedex/blob/main/assets/home.png" alt="Tela do Site" width="700px" height="400px">
+  <img src="https://github.com/brendon-sn/Pokedex/blob/main/assets/home.png" alt="Tela do Site" width="70%" height="40%">
 </p>
 
 ## 🚀 Tecnologias
