@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="" alt="Tela do Site" width="100%">
+  <img src="https://github.com/brendon-sn/Pokedex/blob/main/assets/home.png" alt="Tela do Site" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi criado ao consumir a API RESTful [Pokémon](http://pokeapi.co/), proporcionando a capacidade de buscar Pokémon pelo seu nome ou número correspondente na Pokédex. Além disso, o sistema possui tratamento de erro para garantir que o usuário receba uma mensagem clara caso insira um nome de Pokémon que não existe ou um número incorreto. Explore a vasta coleção de Pokémon com facilidade e confiança.
+Este projeto foi criado ao consumir a API RESTful [Pokémon](http://pokeapi.co/target="_blank"), proporcionando a capacidade de buscar Pokémon pelo seu nome ou número correspondente na Pokédex. Além disso, o sistema possui tratamento de erro para garantir que o usuário receba uma mensagem clara caso insira um nome de Pokémon que não existe ou um número incorreto. Explore a vasta coleção de Pokémon com facilidade e confiança.
 
 ## 📑 Deploy
 
